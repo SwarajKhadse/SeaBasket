@@ -1,0 +1,7 @@
+.read-butt{
+    width:  max-content;
+    
+    border: 1px solid rgb(252, 4, 4);
+    background-color: #ff0000;
+    padding-left: 50px;
+}
